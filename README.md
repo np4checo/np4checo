@@ -3,7 +3,7 @@
 
 - 📫 Contato **natan.pacheco.1998@gmail.com**
 
-- 📄 Sobre minhas experiências [HTML5, CSS3, JavaScritp, TypeScript, Reactjs.](HTML5, CSS3, JavaScritp, TypeScript, Reactjs.)
+- 📄 Sobre minhas experiências [HTML5, CSS3, JavaScritp, TypeScript, Reactjs.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
