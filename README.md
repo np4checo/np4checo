@@ -1,9 +1,9 @@
-<h1 align="center">Olá, 👋, me chamo Natã Pacheco</h1>
+<h1 align="center">Olá, 👋, me chamo Natã Pacheco.</h1>
 <h3 align="center">Tenho 24 anos e tenho me dedicado esforçadamente ao aprendizado de tecnologias de desenvolvimento front-end.</h3>
 
 - 📫 Contato **natan.pacheco.1998@gmail.com**
 
-- 📄 Sobre minhas experiências [Tenho focado meus estudos em projetos de tecnologias front-end, em especial javascript e react.](Tenho focado meus estudos em projetos de tecnologias front-end, em especial javascript e react.)
+- 📄 Sobre minhas experiências [HTML5, CSS3, JavaScritp, TypeScript, Reactjs.](HTML5, CSS3, JavaScritp, TypeScript, Reactjs.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
